@@ -1,0 +1,1 @@
+All three models are trained on temperature data from Openweathermap. Model 001 was trained using data from 12/01/2025 to 25/01/2025. Model 002 is a continuation, training from 001 on an additional 2 weeks from where 001 ended. Vice versa from 003 training from 002. Starting at 003 was where Loss began to plateau, which prompted me to stop training.  
